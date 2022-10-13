@@ -1,1 +1,10 @@
 td, th, tr {text-align: center;}
+table, th, td{border: 1px solid black;
+border-collapse: collapse;
+}
+table {width: 600px;
+    height: 200px}
+.row5 {height: 100px}
+
+td, th {height: 60px;}
+.firstrow {height: 120px;}
