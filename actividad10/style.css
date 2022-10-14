@@ -1,0 +1,18 @@
+* {margin: 0;}
+
+header {box-shadow: 5px 0px 5px;
+height: 50px;
+}
+
+ul {display: flex;
+justify-content: left;
+flex-direction: row;
+gap: 20px;
+}
+
+li {display: flex;
+}
+
+a {text-decoration: none;
+color: rgb(87, 80, 80); 
+font-weight: bold ;}

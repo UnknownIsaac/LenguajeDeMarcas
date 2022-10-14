@@ -7,7 +7,9 @@ header {
     padding-bottom: 1%;
 }
 
-main {display: flex;}
+main {
+    display: flex;
+}
 
 #section1 {
     text-align: left;
@@ -18,11 +20,15 @@ main {display: flex;}
     margin-right: 2%;
 }
 
-#section2 {float: right;
+#section2 {
+    float: right;
     width: 50%;
 }
 
-#div {display: flex;
+#div {
+    display: flex;
 }
 
-.pmargin {margin-right: 20px;}
+.pmargin {
+    margin-right: 20px;
+}
