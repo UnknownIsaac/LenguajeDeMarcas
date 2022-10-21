@@ -44,11 +44,11 @@ a {
 
 .contentimg {
     background-color: white;
-    float: left;
     height: 50%;
 }
 
-#leftdiv {width: 60%;
+#leftdiv {float: left;
+    width: 60%;
     margin-left: 1%;}
 
 #footer {
@@ -68,5 +68,6 @@ img {
 
 #burger {width: 100%;}
 
-#lastdiv {width: 20%;
+#lastdiv {float: right;
+    width: 39%;
 background-color:turquoise;}
