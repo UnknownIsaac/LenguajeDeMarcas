@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tabla>
+    <tab>
+<ofertasCD>
+    <titulo></titulo>
+    <artista></artista>
+    <pais></pais>
+    <compañia></compañia>
+    <precio></precio>
+    <añodepubli></añodepubli>
+</ofertasCD>
+</tab>
+<tab></tab>
+</tabla>

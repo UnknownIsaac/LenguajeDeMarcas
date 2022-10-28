@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <tabla>
-    <tab>
-        <Descripcion>IBM da a conocer el PC</Descripcion>
+    <tab Descripcion="IBM da a conocer el PC">
         <Fecha>
             <dia>12</dia>
             <mes>8</mes>
             <año>1981</año>
         </Fecha>
     </tab>
-    <tab>
-        <Descripcion>Se funda Google</Descripcion>
+    <tab Descripcion="Se funda Google">
         <Fecha>
             <dia>4</dia>
             <mes>9</mes>
             <año>1998</año>
         </Fecha>
     </tab>
-    <tab>
-        <Descripcion>Se funda Facebook</Descripcion>
+    <tab Descripcion="Se funda Facebook">
         <Fecha>
             <dia>4</dia>
             <mes>2</mes>
