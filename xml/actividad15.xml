@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FACTURACIÓN_DE_EMPRESA>
+    <factura_n999>
+        <datos_empresa>
+            <nombre></nombre>
+
+        </datos_empresa>
+    </factura_n999>
+
+    <datos_CLIENTE>
+        <num_cliente></num_cliente>
+        <nombre></nombre>
+        <direccion_envio></direccion_envio>
+        <poblacion></poblacion>
+        <cod.posta></cod.posta>
+        <provincia></provincia>
+    </datos_CLIENTE>
+
+    <datos_FACTURA>
+        <datos>
+            <ref></ref>
+            <descripcion></descripcion>
+            <cantidad></cantidad>
+            <precio></precio>
+            <i.v.a></i.v.a>
+            <importe></importe>
+        </datos>
+        <datos>
+            <ref></ref>
+            <descripcion></descripcion>
+            <cantidad></cantidad>
+            <precio></precio>
+            <i.v.a></i.v.a>
+            <importe></importe>
+        </datos>
+        <datos>
+            <ref></ref>
+            <descripcion></descripcion>
+            <cantidad></cantidad>
+            <precio></precio>
+            <i.v.a></i.v.a>
+            <importe></importe>
+        </datos>
+        <datos>
+            <ref></ref>
+            <descripcion></descripcion>
+            <cantidad></cantidad>
+            <precio></precio>
+            <i.v.a></i.v.a>
+            <importe></importe>
+        </datos>
+    </datos_FACTURA>
+</FACTURACIÓN_DE_EMPRESA>
