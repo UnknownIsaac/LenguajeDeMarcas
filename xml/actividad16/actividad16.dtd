@@ -9,5 +9,3 @@
 <!ELEMENT titulacion (#PCDATA)>
 <!ELEMENT curso_academico (#PCDATA)>
 <!ELEMENT tipo_matricula (#PCDATA)>
-
-
