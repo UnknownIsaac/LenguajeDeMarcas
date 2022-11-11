@@ -3,7 +3,18 @@
     <xs:element name="lista_de_notas">
         <xs:complexType>
             <xs:sequence>
-                
+                <xs:element maxOccurs="unbounded" name="nota">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="para" type="xs:string" />
+                            <xs:element name="de" type="xs:string" />
+                            <xs:element name="titulo" type="xs:string" />
+                            <xs:element name="contenido" type="xs:string" />
+                        </xs:sequence>
+                        <xs:attribute name="dia" type="xs:date" />
+                        <xs:attribute name="hora" type="xs:time" />
+                    </xs:complexType>
+                </xs:element>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
