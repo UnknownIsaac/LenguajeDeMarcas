@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <arboles>
-    <Acer_monspessulanum>
+    <arbol name="Acer_monspessulanum">
         <Nombre_común>Arce de Montpellier, Arce menor</Nombre_común>
         <Vegetación>Caducifolio</Vegetación>
         <Altura>De 6 a 10 metros</Altura>
         <FormayEstructura>Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</FormayEstructura>
         <Color_en_primavera>Haz verde brillante, envés verde blanquecino</Color_en_primavera>
         <Resistencia_a_las_heladas>Heladas fuertes (hasta -15ºC)</Resistencia_a_las_heladas>
-    </Acer_monspessulanum>
+    </arbol>
 
-    <Olea_europea>
+    <arbol name="Olea_europea">
         <Nombre_común>Olivo</Nombre_común>
         <Vegetación>Perenne</Vegetación>
         <Altura>De 8 a 15 metros</Altura>
         <FormayEstructura>Copa irregular. Tronco principal irregular con bifurcaciones</FormayEstructura>
-    </Olea_europea>
+    </arbol>
 
-    <Ramaje_tortuoso>
+    <arbol name="Ramaje_tortuoso">
         <Color_en_primavera>Haz verde oscuro, envés verde plateado</Color_en_primavera>
         <Resistencia_a_las_heladas>Heladas medias (hasta -10ºC)</Resistencia_a_las_heladas>
-    </Ramaje_tortuoso>
+    </arbol>
 
-    <Platanus_orientalis>
+    <arbol name="Platanus_orientalis">
         <Nombre_común>Platano</Nombre_común>
         <Vegetación>Caducifolio</Vegetación>
         <Altura>De 20 a 25 metros</Altura>
@@ -30,14 +30,14 @@
         <Color_en_primavera>Haz verde medio, enves verde claro</Color_en_primavera>
         <Color_en_otoño>Ocre</Color_en_otoño>
         <Resistencia_a_las_heladas>Heladas fuertes (hasta -20ºC)</Resistencia_a_las_heladas>
-    </Platanus_orientalis>
+    </arbol>
 
-    <Quercus_ilex>
+    <arbol name="Quercus_ilex">
         <Nombre_común>Encina</Nombre_común>
         <Vegetación>Perenne</Vegetación>
         <Altura>En torno a 25 metros</Altura>
         <FormayEstructura>Copa esférica o elíptica irregular. Tronco principal recto. Ramaje tortuoso</FormayEstructura>
         <Color_en_primavera>Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado</Color_en_primavera>
         <Resistencia_a_las_heladas>Heladas fuertes (hasta -15ºC)</Resistencia_a_las_heladas>
-    </Quercus_ilex>
+    </arbol>
 </arboles>
