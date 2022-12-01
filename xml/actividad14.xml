@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="actividad14.xsd"?>
 <arboles>
     <arbol name="Acer_monspessulanum">
         <Nombre_común>Arce de Montpellier, Arce menor</Nombre_común>
