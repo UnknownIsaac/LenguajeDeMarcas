@@ -8,7 +8,7 @@
             <title>Mi libreria</title>
         </head>
         <body>
-            <h1>Mi librearia</h1>
+            <h1>Mi libreria</h1>
             <table border="1px">
                 <tr>
                     <th>Autor</th>
