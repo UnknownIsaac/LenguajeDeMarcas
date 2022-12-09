@@ -28,13 +28,18 @@
             <td>
                 <xsl:value-of select="@Descripcion"/>
             </td>
+        <xsl:apply-templates/>
         </tr>
     </xsl:template>
     <xsl:template match="tabla/tab/Fecha">
-        <tr>
             <td>
                 <xsl:value-of select="dia"/>
             </td>
-        </tr>
+            <td>
+                <xsl:value-of select="mes"/>
+            </td>
+            <td>
+                <xsl:value-of select="año"/>
+            </td>
     </xsl:template>
 </xsl:stylesheet>
