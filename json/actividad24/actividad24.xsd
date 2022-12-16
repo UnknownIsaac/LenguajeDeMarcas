@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:element name="libreria">
+    <xs:element name="ofertasCD">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="libro" maxOccurs="unbounded">
+                <xs:element name="CD" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
                             <xs:element name="titulo" type="xs:string" />
-                            <xs:element name="autor" type="xs:string" />
-                            <xs:element name="editor" type="xs:string" />
-                            <xs:element name="isbn" type="xs:string" />
+                            <xs:element name="artista" type="xs:string" />
+                            <xs:element name="pais" type="xs:string" />
+                            <xs:element name="compañia" type="xs:string" />
                             <xs:element name="precio" type="xs:string" />
+                            <xs:element name="añodepubli" type="xs:string" />
                         </xs:sequence>
-                        <xs:attribute name="fecha-publicacion" type="xs:date" use="required" />
                     </xs:complexType>
                 </xs:element>
             </xs:sequence>
