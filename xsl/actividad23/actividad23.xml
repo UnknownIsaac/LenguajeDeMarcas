@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="actividad23.xsl" type="text/xsl"?>
+<?xml-model href="actividad23.xsd"?>
+<FACTURACIÓN_DE_EMPRESA>
+    <factura_n999>
+        <datos_empresa>
+            <nombre>Equipos Digitales S.L.</nombre>
+            <avenida>Av. Valladolid</avenida>
+            <ProvinciayCP>Madrid 28015</ProvinciayCP>
+            <CIF>C.I.F: Q-9876543</CIF>
+            <Telefono>teléfono: 91.777.66.88</Telefono>
+            <fax>fax: 91.777.66.88</fax>
+        </datos_empresa>
+        <datos_pago>
+            <fecha>12-01-2005</fecha>
+            <pedido>nº 731</pedido>
+            <forma_pago>EFECTIVO</forma_pago>
+        </datos_pago>
+    </factura_n999>
+
+    <datos_CLIENTE>
+        <num_cliente>879</num_cliente>
+        <nombre>Dario Bueno Gutiérres</nombre>
+        <direccion_envio>Av. Oporto nº7 4ºd</direccion_envio>
+        <poblacion>Madrid</poblacion>
+        <cod.posta>28043</cod.posta>
+        <provincia>Madrid</provincia>
+    </datos_CLIENTE>
+
+    <datos_FACTURA>
+        <datos>
+            <ref>MII93000F/8</ref>
+            <descripcion>MICRO PENTIUM IV 3000MHZ FB800</descripcion>
+            <cantidad>1</cantidad>
+            <precio>230 eur.</precio>
+            <i.v.a>16,0</i.v.a>
+            <importe>266.80 eur.</importe>
+        </datos>
+        <datos>
+            <ref>MB8QDIP4</ref>
+            <descripcion>PLACA BASE QDI P4</descripcion>
+            <cantidad>1</cantidad>
+            <precio>180 eur.</precio>
+            <i.v.a>16.0</i.v.a>
+            <importe>208.80 eur.</importe>
+        </datos>
+        <datos>
+            <ref>MEDD512M32</ref>
+            <descripcion>DIMM DDR 512MB 3200</descripcion>
+            <cantidad>2</cantidad>
+            <precio>40 eur.</precio>
+            <i.v.a>16,0</i.v.a>
+            <importe>92,80 eur.</importe>
+        </datos>
+        <datos>
+            <ref>HD250GSA7</ref>
+            <descripcion>DISCO DURO 250GB S-ATA 7200</descripcion>
+            <cantidad>4</cantidad>
+            <precio>120 eur.</precio>
+            <i.v.a>16,0</i.v.a>
+            <importe>556,80 eur.</importe>
+        </datos>
+        <datos2>
+            <base_imponible>970,00 eur.</base_imponible>
+            <IVA_Porcentaje>16,0</IVA_Porcentaje>
+            <cuota_IVA>155,20 eur.</cuota_IVA>
+        </datos2>
+        <totalfactura>Total FACTURA: 1125,20 eur</totalfactura>
+    </datos_FACTURA>
+</FACTURACIÓN_DE_EMPRESA>

@@ -3,21 +3,15 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>Actividad 12/22</title>
+                <title>Actividad 15/23</title>
             </head>
             <body>
-                <h1>Actividad 22</h1>
+                <h1>Actividad 23</h1>
                 <table border="1">
                     <tr>
-                        <th colspan="6">CDs EN OFERTA</th>
+                        <th colspan="6"></th>
                     </tr>
                     <tr>
-                        <th>Titulo</th>
-                        <th>Artista</th>
-                        <th>País</th>
-                        <th>Compañia discografica</th>
-                        <th>Precio</th>
-                        <th>Año de publicacion</th>
                     </tr>
                     <xsl:for-each select="ofertasCD/CD">
                     <tr>
