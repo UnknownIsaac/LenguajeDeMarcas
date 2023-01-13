@@ -5,12 +5,57 @@ body {
     margin-right: 2%;
 }
 
+p {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+.par {
+    margin-top: 8%;
+}
+
 #titulo {
     text-align: center;
     margin-top: 2%;
 }
 
+.description {
+    margin-top: 2%
+}
+
+#absolutedate {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
 #description {
     margin-top: 2%;
     font-size: 1.5rem;
+}
+
+#date {
+    color: rgba(119, 119, 119, 0.726);
+}
+
+
+
+.carousel-inner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70%;
+    width: 70%;
+}
+
+
+.card:hover {
+    transform: scale(1.1);
+    transition: all linear 200ms;
+    z-index: 1;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, .3);
+    cursor: pointer;
 }
