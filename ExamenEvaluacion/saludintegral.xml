@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<saludintegral>
+    <servicio tipo="Fisioterapia">
+        <precio>35€/hora (bonos de 5 sesiones 160€ y de 10 sesiones 300€)</precio>
+        <limiteplaza>reserva previa</limiteplaza>
+        <horario>
+            <dia>
+                <lunes>Lunes</lunes>
+                <martes>Martes</martes>
+                <miercoles>Miercoles</miercoles>
+                <jueves>Jueves</jueves>
+                <viernes>Viernes</viernes>
+            </dia>
+            <hora>
+                <manana>9:00 - 13:00</manana>
+                <tarde>15:00 - 19:00</tarde>
+            </hora>
+        </horario>
+        <empleado>Chus</empleado>
+    </servicio>
+
+    <servicio tipo="Fisioterapia">
+        <precio>35€/hora (bonos de 5 sesiones 160€ y de 10 sesiones 300€)</precio>
+        <limiteplaza>reserva previa</limiteplaza>
+        <horario>
+            <dia>
+                <lunes>Lunes</lunes>
+                <martes>Martes</martes>
+                <miercoles>Miercoles</miercoles>
+                <jueves>Jueves</jueves>
+                <viernes>Viernes</viernes>
+            </dia>
+            <hora>
+                <manana>9:00 - 13:00</manana>
+                <tarde>15:00 - 19:00</tarde>
+            </hora>
+        </horario>
+        <empleado>Marga</empleado>
+    </servicio>
+
+    <servicio tipo="Fisioterapia">
+        <precio>35€/hora (bonos de 5 sesiones 160€ y de 10 sesiones 300€)</precio>
+        <limiteplaza>reserva previa</limiteplaza>
+        <horario>
+            <dia>
+                <lunes>Lunes</lunes>
+                <martes>Martes</martes>
+                <miercoles>Miercoles</miercoles>
+                <jueves>Jueves</jueves>
+                <viernes>Viernes</viernes>
+            </dia>
+            <hora>
+                <manana>9:00 - 13:00</manana>
+                <tarde>15:00 - 19:00</tarde>
+            </hora>
+        </horario>
+        <empleado>Silvia</empleado>
+    </servicio>
+
+    <servicio tipo="Podologia">
+        <precio>25€/hora (bonos de 5 sesiones 100€ y de 10 sesiones 190€)</precio>
+        <limiteplaza>reserva previa</limiteplaza>
+        <horario>
+            <dia>
+                <lunes>Lunes</lunes>
+                <martes>Martes</martes>
+                <miercoles>Miercoles</miercoles>
+                <jueves>Jueves</jueves>
+                <viernes>Viernes</viernes>
+            </dia>
+            <hora>
+                <manana>9:00 - 13:00</manana>
+                <tarde>15:00 - 19:00</tarde>
+            </hora>
+        </horario>
+        <empleado>Joana</empleado>
+    </servicio>
+
+    <servicio tipo="Psicología">
+        <precio>50€/hora (bonos de 5 sesiones 220€ y de 10 sesiones 400€)</precio>
+        <limiteplaza>reserva previa</limiteplaza>
+        <horario>
+            <dia>
+                <lunes>Lunes</lunes>
+                <martes>Martes</martes>
+                <miercoles>Miercoles</miercoles>
+                <jueves>Jueves</jueves>
+                <viernes>Viernes</viernes>
+            </dia>
+            <hora>
+                <manana>9:00 - 13:00</manana>
+                <tarde>15:00 - 19:00</tarde>
+            </hora>
+        </horario>
+        <empleado>Aina</empleado>
+    </servicio>
+
+    <servicio tipo="Yoga">
+        <precio>25€/mes</precio>
+        <limiteplaza>20 personas</limiteplaza>
+        <horario>
+            <dia>
+                <lunes>Lunes</lunes>
+                <miercoles>Miercoles</miercoles>
+                <viernes>Viernes</viernes>
+            </dia>
+            <hora>
+                <mañana>11:00 - 12:30</mañana>
+                <tarde>17:00 - 18:30</tarde>
+            </hora>
+        </horario>
+        <empleado>Biel</empleado>
+    </servicio>
+
+    <servicio tipo="Yoga">
+        <precio>25€/mes</precio>
+        <limiteplaza>20 personas</limiteplaza>
+        <horario>
+            <dia>
+                <lunes>Lunes</lunes>
+                <miercoles>Miercoles</miercoles>
+                <viernes>Viernes</viernes>
+            </dia>
+            <hora>
+                <mañana>11:00 - 12:30</mañana>
+                <tarde>17:00 - 18:30</tarde>
+            </hora>
+        </horario>
+        <empleado>Alex</empleado>
+    </servicio>
+
+    <servicio tipo="Pilates">
+        <precio>30€/mes</precio>
+        <limiteplaza>25 personas</limiteplaza>
+        <horario>
+            <dia>
+                <martes>Martes</martes>
+                <jueves>Jueves</jueves>
+                <viernes>Viernes</viernes>
+            </dia>
+            <hora>
+                <mañana>10:00 - 11:30</mañana>
+                <tarde>16:00 - 17:30</tarde>
+            </hora>
+        </horario>
+        <empleado>Tolo</empleado>
+    </servicio>
+
+    <servicio tipo="Meditación">
+        <precio>35€/mes</precio>
+        <limiteplaza>10 personas</limiteplaza>
+        <horario>
+            <dia>
+                <lunes>Lunes</lunes>
+                <martes>Martes</martes>
+                <miercoles>Miercoles</miercoles>
+                <jueves>Jueves</jueves>
+                <viernes>Viernes</viernes>
+            </dia>
+            <hora>
+                <mañana>10:00 - 11:00</mañana>
+                <tarde>19:00 - 20:00</tarde>
+            </hora>
+        </horario>
+        <empleado>Biel</empleado>
+    </servicio>
+
+    <servicio tipo="Meditación">
+        <precio>35€/mes</precio>
+        <limiteplaza>10 personas</limiteplaza>
+        <horario>
+            <dia>
+                <lunes>Lunes</lunes>
+                <martes>Martes</martes>
+                <miercoles>Miercoles</miercoles>
+                <jueves>Jueves</jueves>
+                <viernes>Viernes</viernes>
+            </dia>
+            <hora>
+                <mañana>10:00 - 11:00</mañana>
+                <tarde>19:00 - 20:00</tarde>
+            </hora>
+        </horario>
+        <empleado>Alex</empleado>
+    </servicio>
+</saludintegral>
