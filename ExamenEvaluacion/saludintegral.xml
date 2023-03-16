@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="style.xsl" type="text/xsl"?>
+
 <saludintegral>
     <servicio tipo="Fisioterapia">
         <precio>35€/hora (bonos de 5 sesiones 160€ y de 10 sesiones 300€)</precio>
